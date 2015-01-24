@@ -1,0 +1,180 @@
+C:\Users\Brian\Desktop\FEB STUFF\BlobLobTheGame\SpriteManager\bin\x86\Debug\SpriteManager.dll
+C:\Users\Brian\Desktop\FEB STUFF\BlobLobTheGame\SpriteManager\bin\x86\Debug\SpriteManager.pdb
+C:\Users\Brian\Desktop\FEB STUFF\BlobLobTheGame\SpriteManager\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Brian\Desktop\FEB STUFF\BlobLobTheGame\SpriteManager\obj\x86\Debug\SpriteManager.dll
+C:\Users\Brian\Desktop\FEB STUFF\BlobLobTheGame\SpriteManager\obj\x86\Debug\SpriteManager.pdb
+C:\Users\Brian\Desktop\FEB STUFF\BlobLobTheGame\SpriteManager\obj\x86\Debug\Sprite Classes.csprojResolveAssemblyReference.cache
+C:\Users\Brian\Desktop\Level Editor\SpriteManager\bin\x86\Debug\SpriteManager.dll
+C:\Users\Brian\Desktop\Level Editor\SpriteManager\bin\x86\Debug\SpriteManager.pdb
+C:\Users\Brian\Desktop\Level Editor\SpriteManager\obj\x86\Debug\Sprite Classes.csprojResolveAssemblyReference.cache
+C:\Users\Brian\Desktop\Level Editor\SpriteManager\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Brian\Desktop\Level Editor\SpriteManager\obj\x86\Debug\SpriteManager.dll
+C:\Users\Brian\Desktop\Level Editor\SpriteManager\obj\x86\Debug\SpriteManager.pdb
+E:\Level Editor\SpriteManager\bin\x86\Debug\SpriteManager.dll
+E:\Level Editor\SpriteManager\bin\x86\Debug\SpriteManager.pdb
+E:\Level Editor\SpriteManager\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\Level Editor\SpriteManager\obj\x86\Debug\SpriteManager.dll
+E:\Level Editor\SpriteManager\obj\x86\Debug\SpriteManager.pdb
+G:\Level Editor\SpriteManager\bin\x86\Debug\SpriteManager.dll
+G:\Level Editor\SpriteManager\bin\x86\Debug\SpriteManager.pdb
+G:\Level Editor\SpriteManager\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Level Editor\SpriteManager\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+G:\Level Editor\SpriteManager\obj\x86\Debug\SpriteManager.dll
+G:\Level Editor\SpriteManager\obj\x86\Debug\SpriteManager.pdb
+E:\Level Editor\SpriteManager\obj\x86\Debug\Sprite Classes.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Level Editor\SpriteManager\bin\x86\Debug\SpriteManager.dll
+C:\Users\Administrator\Desktop\Level Editor\SpriteManager\bin\x86\Debug\SpriteManager.pdb
+C:\Users\Administrator\Desktop\Level Editor\SpriteManager\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Level Editor\SpriteManager\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Administrator\Desktop\Level Editor\SpriteManager\obj\x86\Debug\SpriteManager.dll
+C:\Users\Administrator\Desktop\Level Editor\SpriteManager\obj\x86\Debug\SpriteManager.pdb
+C:\Users\Administrator\Desktop\All Things Programming\Level Editor\SpriteManager\bin\x86\Debug\SpriteManager.dll
+C:\Users\Administrator\Desktop\All Things Programming\Level Editor\SpriteManager\bin\x86\Debug\SpriteManager.pdb
+C:\Users\Administrator\Desktop\All Things Programming\Level Editor\SpriteManager\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\All Things Programming\Level Editor\SpriteManager\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Administrator\Desktop\All Things Programming\Level Editor\SpriteManager\obj\x86\Debug\SpriteManager.dll
+C:\Users\Administrator\Desktop\All Things Programming\Level Editor\SpriteManager\obj\x86\Debug\SpriteManager.pdb
+C:\Users\Administrator\Desktop\All Things Programming\Bottomless Pit\Bottomless Pit\SpriteManager\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\All Things Programming\Bottomless Pit\Bottomless Pit\SpriteManager\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Administrator\Desktop\All Things Programming\Bottomless Pit\Bottomless Pit\SpriteManager\obj\x86\Debug\SpriteManager.dll
+C:\Users\Administrator\Desktop\All Things Programming\Bottomless Pit\Bottomless Pit\SpriteManager\obj\x86\Debug\SpriteManager.pdb
+C:\Users\Administrator\Desktop\All Things Programming\Bottomless Pit\Bottomless Pit\SpriteManager\bin\x86\Debug\SpriteManager.dll
+C:\Users\Administrator\Desktop\All Things Programming\Bottomless Pit\Bottomless Pit\SpriteManager\bin\x86\Debug\SpriteManager.pdb
+C:\Users\Administrator\Desktop\All Things Programming\Physics Engine\Bottomless Pit\SpriteManager\bin\x86\Debug\SpriteManager.dll
+C:\Users\Administrator\Desktop\All Things Programming\Physics Engine\Bottomless Pit\SpriteManager\bin\x86\Debug\SpriteManager.pdb
+C:\Users\Administrator\Desktop\All Things Programming\Physics Engine\Bottomless Pit\SpriteManager\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\All Things Programming\Physics Engine\Bottomless Pit\SpriteManager\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Administrator\Desktop\All Things Programming\Physics Engine\Bottomless Pit\SpriteManager\obj\x86\Debug\SpriteManager.dll
+C:\Users\Administrator\Desktop\All Things Programming\Physics Engine\Bottomless Pit\SpriteManager\obj\x86\Debug\SpriteManager.pdb
+C:\Users\Administrator\Desktop\All Things Programming\Physics\Bob Lob the Blob\Bottomless Pit\SpriteManager\bin\x86\Debug\SpriteManager.dll
+C:\Users\Administrator\Desktop\All Things Programming\Physics\Bob Lob the Blob\Bottomless Pit\SpriteManager\bin\x86\Debug\SpriteManager.pdb
+C:\Users\Administrator\Desktop\All Things Programming\Physics\Bob Lob the Blob\Bottomless Pit\SpriteManager\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\All Things Programming\Physics\Bob Lob the Blob\Bottomless Pit\SpriteManager\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Administrator\Desktop\All Things Programming\Physics\Bob Lob the Blob\Bottomless Pit\SpriteManager\obj\x86\Debug\SpriteManager.dll
+C:\Users\Administrator\Desktop\All Things Programming\Physics\Bob Lob the Blob\Bottomless Pit\SpriteManager\obj\x86\Debug\SpriteManager.pdb
+C:\Users\Administrator\Desktop\Bob Lob the Blob\Bottomless Pit\SpriteManager\bin\x86\Debug\SpriteManager.dll
+C:\Users\Administrator\Desktop\Bob Lob the Blob\Bottomless Pit\SpriteManager\bin\x86\Debug\SpriteManager.pdb
+C:\Users\Administrator\Desktop\Bob Lob the Blob\Bottomless Pit\SpriteManager\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Bob Lob the Blob\Bottomless Pit\SpriteManager\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Administrator\Desktop\Bob Lob the Blob\Bottomless Pit\SpriteManager\obj\x86\Debug\SpriteManager.dll
+C:\Users\Administrator\Desktop\Bob Lob the Blob\Bottomless Pit\SpriteManager\obj\x86\Debug\SpriteManager.pdb
+C:\Users\Administrator\Desktop\Bob Lob the Blob\Bob Lob the Blob\SpriteManager\bin\x86\Debug\SpriteManager.dll
+C:\Users\Administrator\Desktop\Bob Lob the Blob\Bob Lob the Blob\SpriteManager\bin\x86\Debug\SpriteManager.pdb
+C:\Users\Administrator\Desktop\Bob Lob the Blob\Bob Lob the Blob\SpriteManager\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Bob Lob the Blob\Bob Lob the Blob\SpriteManager\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Administrator\Desktop\Bob Lob the Blob\Bob Lob the Blob\SpriteManager\obj\x86\Debug\SpriteManager.dll
+C:\Users\Administrator\Desktop\Bob Lob the Blob\Bob Lob the Blob\SpriteManager\obj\x86\Debug\SpriteManager.pdb
+C:\Users\Administrator\Desktop\All Things Programming\ss\Bob Lob the Blob\SpriteManager\bin\x86\Debug\SpriteManager.dll
+C:\Users\Administrator\Desktop\All Things Programming\ss\Bob Lob the Blob\SpriteManager\bin\x86\Debug\SpriteManager.pdb
+C:\Users\Administrator\Desktop\All Things Programming\ss\Bob Lob the Blob\SpriteManager\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\All Things Programming\ss\Bob Lob the Blob\SpriteManager\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Administrator\Desktop\All Things Programming\ss\Bob Lob the Blob\SpriteManager\obj\x86\Debug\SpriteManager.dll
+C:\Users\Administrator\Desktop\All Things Programming\ss\Bob Lob the Blob\SpriteManager\obj\x86\Debug\SpriteManager.pdb
+C:\Users\Administrator\Desktop\All Things Programming\Physics\Bob Lob the Blob\SpriteManager\bin\x86\Debug\SpriteManager.dll
+C:\Users\Administrator\Desktop\All Things Programming\Physics\Bob Lob the Blob\SpriteManager\bin\x86\Debug\SpriteManager.pdb
+C:\Users\Administrator\Desktop\All Things Programming\Physics\Bob Lob the Blob\SpriteManager\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\All Things Programming\Physics\Bob Lob the Blob\SpriteManager\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Administrator\Desktop\All Things Programming\Physics\Bob Lob the Blob\SpriteManager\obj\x86\Debug\SpriteManager.dll
+C:\Users\Administrator\Desktop\All Things Programming\Physics\Bob Lob the Blob\SpriteManager\obj\x86\Debug\SpriteManager.pdb
+C:\Users\Administrator\Desktop\CS6\Bob Lob the Blob\SpriteManager\bin\x86\Debug\SpriteManager.dll
+C:\Users\Administrator\Desktop\CS6\Bob Lob the Blob\SpriteManager\bin\x86\Debug\SpriteManager.pdb
+C:\Users\Administrator\Desktop\CS6\Bob Lob the Blob\SpriteManager\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\CS6\Bob Lob the Blob\SpriteManager\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Administrator\Desktop\CS6\Bob Lob the Blob\SpriteManager\obj\x86\Debug\SpriteManager.dll
+C:\Users\Administrator\Desktop\CS6\Bob Lob the Blob\SpriteManager\obj\x86\Debug\SpriteManager.pdb
+C:\Users\Kayviel\Desktop\Code\BLB\Bob Lob the Blob V4\Bob Lob the Blob\SpriteManager\bin\x86\Debug\SpriteManager.dll
+C:\Users\Kayviel\Desktop\Code\BLB\Bob Lob the Blob V4\Bob Lob the Blob\SpriteManager\bin\x86\Debug\SpriteManager.pdb
+C:\Users\Kayviel\Desktop\Code\BLB\Bob Lob the Blob V4\Bob Lob the Blob\SpriteManager\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Kayviel\Desktop\Code\BLB\Bob Lob the Blob V4\Bob Lob the Blob\SpriteManager\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Kayviel\Desktop\Code\BLB\Bob Lob the Blob V4\Bob Lob the Blob\SpriteManager\obj\x86\Debug\SpriteManager.dll
+C:\Users\Kayviel\Desktop\Code\BLB\Bob Lob the Blob V4\Bob Lob the Blob\SpriteManager\obj\x86\Debug\SpriteManager.pdb
+C:\Users\Administrator\Desktop\BLB April 5th\Bob Lob the Blob V4\Bob Lob the Blob\SpriteManager\bin\x86\Debug\SpriteManager.dll
+C:\Users\Administrator\Desktop\BLB April 5th\Bob Lob the Blob V4\Bob Lob the Blob\SpriteManager\bin\x86\Debug\SpriteManager.pdb
+C:\Users\Administrator\Desktop\BLB April 5th\Bob Lob the Blob V4\Bob Lob the Blob\SpriteManager\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\BLB April 5th\Bob Lob the Blob V4\Bob Lob the Blob\SpriteManager\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Administrator\Desktop\BLB April 5th\Bob Lob the Blob V4\Bob Lob the Blob\SpriteManager\obj\x86\Debug\SpriteManager.dll
+C:\Users\Administrator\Desktop\BLB April 5th\Bob Lob the Blob V4\Bob Lob the Blob\SpriteManager\obj\x86\Debug\SpriteManager.pdb
+C:\Users\killer rin\Downloads\BLB April 5th\BLB April 5th\Bob Lob the Blob V4\Bob Lob the Blob\SpriteManager\bin\x86\Debug\SpriteManager.dll
+C:\Users\killer rin\Downloads\BLB April 5th\BLB April 5th\Bob Lob the Blob V4\Bob Lob the Blob\SpriteManager\bin\x86\Debug\SpriteManager.pdb
+C:\Users\killer rin\Downloads\BLB April 5th\BLB April 5th\Bob Lob the Blob V4\Bob Lob the Blob\SpriteManager\obj\x86\Debug\Sprite Classes.csprojResolveAssemblyReference.cache
+C:\Users\killer rin\Downloads\BLB April 5th\BLB April 5th\Bob Lob the Blob V4\Bob Lob the Blob\SpriteManager\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\killer rin\Downloads\BLB April 5th\BLB April 5th\Bob Lob the Blob V4\Bob Lob the Blob\SpriteManager\obj\x86\Debug\SpriteManager.dll
+C:\Users\killer rin\Downloads\BLB April 5th\BLB April 5th\Bob Lob the Blob V4\Bob Lob the Blob\SpriteManager\obj\x86\Debug\SpriteManager.pdb
+E:\Sarah\College\Semester 02\GAME 220 - Physics\Final Project\Final Project v8.0\BLB April 5th\Bob Lob the Blob V4\Bob Lob the Blob\SpriteManager\bin\x86\Debug\SpriteManager.dll
+E:\Sarah\College\Semester 02\GAME 220 - Physics\Final Project\Final Project v8.0\BLB April 5th\Bob Lob the Blob V4\Bob Lob the Blob\SpriteManager\bin\x86\Debug\SpriteManager.pdb
+E:\Sarah\College\Semester 02\GAME 220 - Physics\Final Project\Final Project v8.0\BLB April 5th\Bob Lob the Blob V4\Bob Lob the Blob\SpriteManager\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Sarah\College\Semester 02\GAME 220 - Physics\Final Project\Final Project v8.0\BLB April 5th\Bob Lob the Blob V4\Bob Lob the Blob\SpriteManager\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\Sarah\College\Semester 02\GAME 220 - Physics\Final Project\Final Project v8.0\BLB April 5th\Bob Lob the Blob V4\Bob Lob the Blob\SpriteManager\obj\x86\Debug\SpriteManager.dll
+E:\Sarah\College\Semester 02\GAME 220 - Physics\Final Project\Final Project v8.0\BLB April 5th\Bob Lob the Blob V4\Bob Lob the Blob\SpriteManager\obj\x86\Debug\SpriteManager.pdb
+E:\Sarah\College\Semester 02\GAME 220 - Physics\Final Project\Final Project v8.1\BLB April 5th\Bob Lob the Blob V4\Bob Lob the Blob\SpriteManager\bin\x86\Debug\SpriteManager.dll
+E:\Sarah\College\Semester 02\GAME 220 - Physics\Final Project\Final Project v8.1\BLB April 5th\Bob Lob the Blob V4\Bob Lob the Blob\SpriteManager\bin\x86\Debug\SpriteManager.pdb
+E:\Sarah\College\Semester 02\GAME 220 - Physics\Final Project\Final Project v8.1\BLB April 5th\Bob Lob the Blob V4\Bob Lob the Blob\SpriteManager\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Sarah\College\Semester 02\GAME 220 - Physics\Final Project\Final Project v8.1\BLB April 5th\Bob Lob the Blob V4\Bob Lob the Blob\SpriteManager\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\Sarah\College\Semester 02\GAME 220 - Physics\Final Project\Final Project v8.1\BLB April 5th\Bob Lob the Blob V4\Bob Lob the Blob\SpriteManager\obj\x86\Debug\SpriteManager.dll
+E:\Sarah\College\Semester 02\GAME 220 - Physics\Final Project\Final Project v8.1\BLB April 5th\Bob Lob the Blob V4\Bob Lob the Blob\SpriteManager\obj\x86\Debug\SpriteManager.pdb
+D:\Sara\College\Semester 02\GAME 220 - Physics\Final Project\Full Versions\Final Project v8.2\Bob Lob the Blob\SpriteManager\bin\x86\Debug\SpriteManager.dll
+D:\Sara\College\Semester 02\GAME 220 - Physics\Final Project\Full Versions\Final Project v8.2\Bob Lob the Blob\SpriteManager\bin\x86\Debug\SpriteManager.pdb
+D:\Sara\College\Semester 02\GAME 220 - Physics\Final Project\Full Versions\Final Project v8.2\Bob Lob the Blob\SpriteManager\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Sara\College\Semester 02\GAME 220 - Physics\Final Project\Full Versions\Final Project v8.2\Bob Lob the Blob\SpriteManager\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Sara\College\Semester 02\GAME 220 - Physics\Final Project\Full Versions\Final Project v8.2\Bob Lob the Blob\SpriteManager\obj\x86\Debug\SpriteManager.dll
+D:\Sara\College\Semester 02\GAME 220 - Physics\Final Project\Full Versions\Final Project v8.2\Bob Lob the Blob\SpriteManager\obj\x86\Debug\SpriteManager.pdb
+E:\Sarah\College\Semester 02\GAME 220 - Physics\Final Project\Final Project v8.2\Bob Lob the Blob\SpriteManager\bin\x86\Debug\SpriteManager.dll
+E:\Sarah\College\Semester 02\GAME 220 - Physics\Final Project\Final Project v8.2\Bob Lob the Blob\SpriteManager\bin\x86\Debug\SpriteManager.pdb
+E:\Sarah\College\Semester 02\GAME 220 - Physics\Final Project\Final Project v8.2\Bob Lob the Blob\SpriteManager\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Sarah\College\Semester 02\GAME 220 - Physics\Final Project\Final Project v8.2\Bob Lob the Blob\SpriteManager\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\Sarah\College\Semester 02\GAME 220 - Physics\Final Project\Final Project v8.2\Bob Lob the Blob\SpriteManager\obj\x86\Debug\SpriteManager.dll
+E:\Sarah\College\Semester 02\GAME 220 - Physics\Final Project\Final Project v8.2\Bob Lob the Blob\SpriteManager\obj\x86\Debug\SpriteManager.pdb
+F:\College\Semester 02\GAME220 - Physics\Final Project\Full Versions\Final Project v8.3\Bob Lob the Blob\SpriteManager\bin\x86\Debug\SpriteManager.dll
+F:\College\Semester 02\GAME220 - Physics\Final Project\Full Versions\Final Project v8.3\Bob Lob the Blob\SpriteManager\bin\x86\Debug\SpriteManager.pdb
+F:\College\Semester 02\GAME220 - Physics\Final Project\Full Versions\Final Project v8.3\Bob Lob the Blob\SpriteManager\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\College\Semester 02\GAME220 - Physics\Final Project\Full Versions\Final Project v8.3\Bob Lob the Blob\SpriteManager\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\College\Semester 02\GAME220 - Physics\Final Project\Full Versions\Final Project v8.3\Bob Lob the Blob\SpriteManager\obj\x86\Debug\SpriteManager.dll
+F:\College\Semester 02\GAME220 - Physics\Final Project\Full Versions\Final Project v8.3\Bob Lob the Blob\SpriteManager\obj\x86\Debug\SpriteManager.pdb
+D:\Sara\College\Semester 02\GAME 220 - Physics\Final Project\Full Versions\Final Project v8.3\Bob Lob the Blob\SpriteManager\bin\x86\Debug\SpriteManager.dll
+D:\Sara\College\Semester 02\GAME 220 - Physics\Final Project\Full Versions\Final Project v8.3\Bob Lob the Blob\SpriteManager\bin\x86\Debug\SpriteManager.pdb
+D:\Sara\College\Semester 02\GAME 220 - Physics\Final Project\Full Versions\Final Project v8.3\Bob Lob the Blob\SpriteManager\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Sara\College\Semester 02\GAME 220 - Physics\Final Project\Full Versions\Final Project v8.3\Bob Lob the Blob\SpriteManager\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Sara\College\Semester 02\GAME 220 - Physics\Final Project\Full Versions\Final Project v8.3\Bob Lob the Blob\SpriteManager\obj\x86\Debug\SpriteManager.dll
+D:\Sara\College\Semester 02\GAME 220 - Physics\Final Project\Full Versions\Final Project v8.3\Bob Lob the Blob\SpriteManager\obj\x86\Debug\SpriteManager.pdb
+C:\Users\Administrator\Desktop\Final Project v8.4\Bob Lob the Blob\SpriteManager\bin\x86\Debug\SpriteManager.dll
+C:\Users\Administrator\Desktop\Final Project v8.4\Bob Lob the Blob\SpriteManager\bin\x86\Debug\SpriteManager.pdb
+C:\Users\Administrator\Desktop\Final Project v8.4\Bob Lob the Blob\SpriteManager\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Final Project v8.4\Bob Lob the Blob\SpriteManager\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Administrator\Desktop\Final Project v8.4\Bob Lob the Blob\SpriteManager\obj\x86\Debug\SpriteManager.dll
+C:\Users\Administrator\Desktop\Final Project v8.4\Bob Lob the Blob\SpriteManager\obj\x86\Debug\SpriteManager.pdb
+E:\Sarah\College\Semester 02\GAME 220 - Physics\Final Project\Ginal Project V 9.0\Bob Lob the Blob\SpriteManager\bin\x86\Debug\SpriteManager.dll
+E:\Sarah\College\Semester 02\GAME 220 - Physics\Final Project\Ginal Project V 9.0\Bob Lob the Blob\SpriteManager\bin\x86\Debug\SpriteManager.pdb
+E:\Sarah\College\Semester 02\GAME 220 - Physics\Final Project\Ginal Project V 9.0\Bob Lob the Blob\SpriteManager\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Sarah\College\Semester 02\GAME 220 - Physics\Final Project\Ginal Project V 9.0\Bob Lob the Blob\SpriteManager\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\Sarah\College\Semester 02\GAME 220 - Physics\Final Project\Ginal Project V 9.0\Bob Lob the Blob\SpriteManager\obj\x86\Debug\SpriteManager.dll
+E:\Sarah\College\Semester 02\GAME 220 - Physics\Final Project\Ginal Project V 9.0\Bob Lob the Blob\SpriteManager\obj\x86\Debug\SpriteManager.pdb
+E:\Sarah\College\Semester 02\GAME 220 - Physics\Final Project\Final Project V 9.0\Bob Lob the Blob\SpriteManager\bin\x86\Debug\SpriteManager.dll
+E:\Sarah\College\Semester 02\GAME 220 - Physics\Final Project\Final Project V 9.0\Bob Lob the Blob\SpriteManager\bin\x86\Debug\SpriteManager.pdb
+E:\Sarah\College\Semester 02\GAME 220 - Physics\Final Project\Final Project V 9.0\Bob Lob the Blob\SpriteManager\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Sarah\College\Semester 02\GAME 220 - Physics\Final Project\Final Project V 9.0\Bob Lob the Blob\SpriteManager\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\Sarah\College\Semester 02\GAME 220 - Physics\Final Project\Final Project V 9.0\Bob Lob the Blob\SpriteManager\obj\x86\Debug\SpriteManager.dll
+E:\Sarah\College\Semester 02\GAME 220 - Physics\Final Project\Final Project V 9.0\Bob Lob the Blob\SpriteManager\obj\x86\Debug\SpriteManager.pdb
+C:\Users\Kayviel\Desktop\Code\BLB\Final Project V 9.0\Bob Lob the Blob\SpriteManager\bin\x86\Debug\SpriteManager.dll
+C:\Users\Kayviel\Desktop\Code\BLB\Final Project V 9.0\Bob Lob the Blob\SpriteManager\bin\x86\Debug\SpriteManager.pdb
+C:\Users\Kayviel\Desktop\Code\BLB\Final Project V 9.0\Bob Lob the Blob\SpriteManager\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Kayviel\Desktop\Code\BLB\Final Project V 9.0\Bob Lob the Blob\SpriteManager\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Kayviel\Desktop\Code\BLB\Final Project V 9.0\Bob Lob the Blob\SpriteManager\obj\x86\Debug\SpriteManager.dll
+C:\Users\Kayviel\Desktop\Code\BLB\Final Project V 9.0\Bob Lob the Blob\SpriteManager\obj\x86\Debug\SpriteManager.pdb
+C:\Users\Cassie\Desktop\School Stuff\Game Dynamics\Final Project\Final Project V 9.1\Bob Lob the Blob\SpriteManager\bin\x86\Debug\SpriteManager.dll
+C:\Users\Cassie\Desktop\School Stuff\Game Dynamics\Final Project\Final Project V 9.1\Bob Lob the Blob\SpriteManager\bin\x86\Debug\SpriteManager.pdb
+C:\Users\Cassie\Desktop\School Stuff\Game Dynamics\Final Project\Final Project V 9.1\Bob Lob the Blob\SpriteManager\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Cassie\Desktop\School Stuff\Game Dynamics\Final Project\Final Project V 9.1\Bob Lob the Blob\SpriteManager\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Cassie\Desktop\School Stuff\Game Dynamics\Final Project\Final Project V 9.1\Bob Lob the Blob\SpriteManager\obj\x86\Debug\SpriteManager.dll
+C:\Users\Cassie\Desktop\School Stuff\Game Dynamics\Final Project\Final Project V 9.1\Bob Lob the Blob\SpriteManager\obj\x86\Debug\SpriteManager.pdb
+E:\Sarah\College\Semester 02\GAME 220 - Physics\Final Project\Final Project V 9.2\Final Project V 9.1\Bob Lob the Blob\SpriteManager\bin\x86\Debug\SpriteManager.dll
+E:\Sarah\College\Semester 02\GAME 220 - Physics\Final Project\Final Project V 9.2\Final Project V 9.1\Bob Lob the Blob\SpriteManager\bin\x86\Debug\SpriteManager.pdb
+E:\Sarah\College\Semester 02\GAME 220 - Physics\Final Project\Final Project V 9.2\Final Project V 9.1\Bob Lob the Blob\SpriteManager\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Sarah\College\Semester 02\GAME 220 - Physics\Final Project\Final Project V 9.2\Final Project V 9.1\Bob Lob the Blob\SpriteManager\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\Sarah\College\Semester 02\GAME 220 - Physics\Final Project\Final Project V 9.2\Final Project V 9.1\Bob Lob the Blob\SpriteManager\obj\x86\Debug\SpriteManager.dll
+E:\Sarah\College\Semester 02\GAME 220 - Physics\Final Project\Final Project V 9.2\Final Project V 9.1\Bob Lob the Blob\SpriteManager\obj\x86\Debug\SpriteManager.pdb
+D:\Sara\College\Semester 02\GAME 220 - Physics\Final Project\Final Project V 9.2 - FINAL VERSION\Final Project V 9.1\Bob Lob the Blob\SpriteManager\bin\x86\Debug\SpriteManager.dll
+D:\Sara\College\Semester 02\GAME 220 - Physics\Final Project\Final Project V 9.2 - FINAL VERSION\Final Project V 9.1\Bob Lob the Blob\SpriteManager\bin\x86\Debug\SpriteManager.pdb
+D:\Sara\College\Semester 02\GAME 220 - Physics\Final Project\Final Project V 9.2 - FINAL VERSION\Final Project V 9.1\Bob Lob the Blob\SpriteManager\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Sara\College\Semester 02\GAME 220 - Physics\Final Project\Final Project V 9.2 - FINAL VERSION\Final Project V 9.1\Bob Lob the Blob\SpriteManager\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Sara\College\Semester 02\GAME 220 - Physics\Final Project\Final Project V 9.2 - FINAL VERSION\Final Project V 9.1\Bob Lob the Blob\SpriteManager\obj\x86\Debug\SpriteManager.dll
+D:\Sara\College\Semester 02\GAME 220 - Physics\Final Project\Final Project V 9.2 - FINAL VERSION\Final Project V 9.1\Bob Lob the Blob\SpriteManager\obj\x86\Debug\SpriteManager.pdb

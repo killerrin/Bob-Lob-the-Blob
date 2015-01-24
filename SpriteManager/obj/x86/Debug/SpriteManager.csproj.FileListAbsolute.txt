@@ -1,0 +1,18 @@
+C:\Users\OWNEr\Desktop\School\BlobLobTheGame\SpriteManager\bin\x86\Debug\SpriteManager.dll
+C:\Users\OWNEr\Desktop\School\BlobLobTheGame\SpriteManager\bin\x86\Debug\SpriteManager.pdb
+C:\Users\OWNEr\Desktop\School\BlobLobTheGame\SpriteManager\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\OWNEr\Desktop\School\BlobLobTheGame\SpriteManager\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\OWNEr\Desktop\School\BlobLobTheGame\SpriteManager\obj\x86\Debug\SpriteManager.dll
+C:\Users\OWNEr\Desktop\School\BlobLobTheGame\SpriteManager\obj\x86\Debug\SpriteManager.pdb
+C:\Users\OWNEr\Desktop\School\Sem 2\BlobLobTheGame\SpriteManager\bin\x86\Debug\SpriteManager.dll
+C:\Users\OWNEr\Desktop\School\Sem 2\BlobLobTheGame\SpriteManager\bin\x86\Debug\SpriteManager.pdb
+C:\Users\OWNEr\Desktop\School\Sem 2\BlobLobTheGame\SpriteManager\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\OWNEr\Desktop\School\Sem 2\BlobLobTheGame\SpriteManager\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\OWNEr\Desktop\School\Sem 2\BlobLobTheGame\SpriteManager\obj\x86\Debug\SpriteManager.dll
+C:\Users\OWNEr\Desktop\School\Sem 2\BlobLobTheGame\SpriteManager\obj\x86\Debug\SpriteManager.pdb
+C:\Users\Brian\Desktop\FEB STUFF\BlobLobTheGame\SpriteManager\bin\x86\Debug\SpriteManager.dll
+C:\Users\Brian\Desktop\FEB STUFF\BlobLobTheGame\SpriteManager\bin\x86\Debug\SpriteManager.pdb
+C:\Users\Brian\Desktop\FEB STUFF\BlobLobTheGame\SpriteManager\obj\x86\Debug\SpriteManager.csprojResolveAssemblyReference.cache
+C:\Users\Brian\Desktop\FEB STUFF\BlobLobTheGame\SpriteManager\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Brian\Desktop\FEB STUFF\BlobLobTheGame\SpriteManager\obj\x86\Debug\SpriteManager.dll
+C:\Users\Brian\Desktop\FEB STUFF\BlobLobTheGame\SpriteManager\obj\x86\Debug\SpriteManager.pdb
